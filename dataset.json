@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Bryan, Texas. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Bryan, Texas, US",
+  "export_job_id": "75a443ab-cb66-4305-8937-39a6c7b002c7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 426306,
+  "location_name": "Bryan",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bryan-texas-us-sample-426306",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/426306/beamstation_426306_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.72,
+  "sample_records": 21,
+  "sample_sha256": "d4d8d50fba709b76e9448b43e8522b9708de97da3943b7b62cda96160bab9dfb",
+  "sample_size_bytes": 84785,
+  "total_records": 216,
+  "updated_at": "2026-04-09T16:49:38.352049+00:00"
+}

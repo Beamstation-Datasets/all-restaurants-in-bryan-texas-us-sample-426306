@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 216 records |
 | Free sample size | 21 records (9.72%) |
-| Last export | 2026-04-09T16:49:38.352049+00:00 |
+| Last export | 2026-04-16T19:33:12.108705+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bryan-texas-us-sample-426306/releases/download/sample-latest/beamstation_426306_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample

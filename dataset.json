@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Bryan, Texas. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Bryan, Texas, US",
-  "export_job_id": "75a443ab-cb66-4305-8937-39a6c7b002c7",
+  "export_job_id": "03c7adf1-c9ca-493c-8202-8ef06592b20d",
   "github_org": "Beamstation-Datasets",
   "id_short": 426306,
   "location_name": "Bryan",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/426306/beamstation_426306_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.72,
   "sample_records": 21,
-  "sample_sha256": "d4d8d50fba709b76e9448b43e8522b9708de97da3943b7b62cda96160bab9dfb",
-  "sample_size_bytes": 84785,
+  "sample_sha256": "7e7929fac9fe3dec06b2ce874978a5feb58420e4c92eb33c6a4836f0d024220d",
+  "sample_size_bytes": 57066,
   "total_records": 216,
-  "updated_at": "2026-04-09T16:49:38.352049+00:00"
+  "updated_at": "2026-04-16T19:33:12.108705+00:00"
 }

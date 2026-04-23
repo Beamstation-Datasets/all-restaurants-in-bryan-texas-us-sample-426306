@@ -1,12 +1,12 @@
 {
-  "export_job_id": "03c7adf1-c9ca-493c-8202-8ef06592b20d",
+  "export_job_id": "68c4a2c3-5b0d-474e-954c-693a4f83c436",
   "id_short": 426306,
-  "published_at": "2026-04-19T19:44:01Z",
+  "published_at": "2026-04-23T19:56:39Z",
   "repo_name": "all-restaurants-in-bryan-texas-us-sample-426306",
   "sample_asset_name": "beamstation_426306_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/426306/beamstation_426306_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "7e7929fac9fe3dec06b2ce874978a5feb58420e4c92eb33c6a4836f0d024220d",
-  "sample_size_bytes": 57066,
-  "total_records": 216
+  "sample_records": 22,
+  "sample_sha256": "4321ca3bf80d7ce3e168ebf5e90a13d2f86e926e1fbf98bb464c6ba43f045944",
+  "sample_size_bytes": 56138,
+  "total_records": 225
 }
